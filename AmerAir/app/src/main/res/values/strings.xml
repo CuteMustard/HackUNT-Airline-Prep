@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">AmerAir</string>
     <string name="enter_flight_no">Enter Flight Number</string>
+
+    <string-array name="categories">
+        <item>Carry-On Only (Already Checked-In)</item>
+        <item>Check-In Only</item>
+        <item>Luggage Check-In</item>
+    </string-array>
+
+
+    <string-array name="Avoid">
+        <item>Avoid Highways</item>
+        <item>Avoid Tollways</item>
+        <item>Avoid Ferries</item>
+    </string-array>
 </resources>
