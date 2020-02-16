@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AmerAir</string>
+    <string name="enter_flight_no">Enter Flight Number</string>
+</resources>
